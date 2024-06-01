@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalgonzales
 - 👀 I’m interested in programing with R, Python, JS. 
-- 🌱 I’m currently learning python, arcpy, gee map, R, gee.
+- 🌱 I’m currently learning python, arcpy, geemap, R, gee.
 - 💞️ I’m looking to collaborate on SIG, R, Python.
 - 📫 
 
