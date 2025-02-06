@@ -15,11 +15,11 @@
 ### 📫 Conéctate conmigo  
 🔗 [LinkedIn](https://www.linkedin.com/in/lalgonzales/) | 🖥️ [GitHub](https://github.com/lalgonzales)  
 
+
+<!---
 ---
 _"La curiosidad y la programación me han llevado a explorar nuevas formas de analizar el mundo a través de los datos espaciales."_  
 
-
-<!---
 - 👋 Hi, I’m @lalgonzales
 - 👀 I’m interested in programing with R, Python, JS. 
 - 🌱 I’m currently learning python, arcpy, geemap, R, gee.
